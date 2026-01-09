@@ -5,3 +5,4 @@
 - 配置 pubspec.yaml 中的 assets
 - 解决 Image.asset 无法显示本地图片的问题
 - 使用 VS Code + Flutter 进行调试
+- docs: add trilingual daily learning log (2026-01-10)
