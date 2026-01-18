@@ -73,3 +73,5 @@ Xcode 的报错往往不是“系统真的不支持”，而是构建目标或�
 	•	Continued daily coding practice
 	•	Reviewed previous notes and improved understanding
 	•	Committed today’s learning progress
+## 2026-1-18
+Java 基础语法练习（变量、条件、循环）
