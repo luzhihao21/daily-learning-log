@@ -80,3 +80,13 @@ Java 基础语法练习（变量、条件、循环）
 - Worked on existing iOS projects in Xcode
 - Improved UI layout and logic
 - Ran build and testing
+## 2026-01-20
+
+- 学习内容：代码封装（Encapsulation）
+- 理解要点：
+  - 通过函数/模块将复杂逻辑封装起来，对外只暴露简单、清晰的使用方式
+  - 使用者只关心“怎么用”，不必关心“内部怎么实现”
+- 收获：
+  - 减少重复代码
+  - 提高可读性和可维护性
+  - 为后续学习模块化、面向对象打基础
