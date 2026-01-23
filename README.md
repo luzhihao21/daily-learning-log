@@ -1,4 +1,4 @@
-> Daily learning log.  
+.> Daily learning log.  
 > Focus on programming, languages, and long-term consistency.
 ## 2026-01-08
 
@@ -94,3 +94,5 @@ Java 基础语法练习（变量、条件、循环）
 Java 自学：学习了类与对象、构造方法等基础内容。
 ## 2026-1-22
 Java 自学：学习了类与对象、构造方法等基础内容。
+## 2026-1-23
+Learned basic Xcode concepts
