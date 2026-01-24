@@ -1,4 +1,4 @@
-.> Daily learning log.  
+> Daily learning log.  
 > Focus on programming, languages, and long-term consistency.
 ## 2026-01-08
 
