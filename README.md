@@ -98,3 +98,5 @@ Java 自学：学习了类与对象、构造方法等基础内容。
 Learned basic Xcode concepts
 ## 2026-1-24
 Learned basic Java programming concepts and practiced simple examples.
+## 2026-1-25
+Learned about Xcode version compatibility and build settings.
