@@ -105,3 +105,5 @@ Learned Xcode project structure and file organization
 Studied Swift basic syntax and type system
 Practiced using Interface Builder for UI design
 Explored Xcode shortcuts and productivity tips
+## 2026-1-29
+今日はXcodeの基本的な文法を勉強しました。
