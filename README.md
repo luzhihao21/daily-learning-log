@@ -107,3 +107,5 @@ Practiced using Interface Builder for UI design
 Explored Xcode shortcuts and productivity tips
 ## 2026-1-29
 今日はXcodeの基本的な文法を勉強しました。
+## 2026-1-30
+今日はXcodeの基本的な文法を勉強しました。
