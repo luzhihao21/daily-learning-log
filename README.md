@@ -115,3 +115,5 @@ Explored Xcode shortcuts and productivity tips
 今日はXcodeの基本的な文法を勉強しました
 ## 2026-2-2
 今日はXcodeの基本的な文法を勉強しました
+## 2026-2-4
+今日はXcodeの基本的な文法を勉強しました
