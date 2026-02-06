@@ -119,3 +119,5 @@ Explored Xcode shortcuts and productivity tips
 今日はXcodeの基本的な文法を勉強しました
 ## 2026-2-5
 今日はXcodeの基本的な文法を勉強しました
+## 2026-2-6
+今日の学習：Javaの「拡張for文」を使うと、配列やコレクションの要素を簡単に反復処理できます。
