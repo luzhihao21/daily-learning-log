@@ -125,3 +125,5 @@ Explored Xcode shortcuts and productivity tips
 今日はJavaの基本文法を学習しました。
 変数の宣言とデータ型、if文やfor文、メソッドの書き方を復習しました。
 少しずつ理解が深まってきました。明日も継続します。
+## 2026-2-9
+Today I studied Java basics and reviewed object-oriented concepts.
