@@ -127,3 +127,5 @@ Explored Xcode shortcuts and productivity tips
 少しずつ理解が深まってきました。明日も継続します。
 ## 2026-2-9
 Today I studied Java basics and reviewed object-oriented concepts.
+## 2026-2-10
+今日はXcodeの基本的な文法を勉強しました
