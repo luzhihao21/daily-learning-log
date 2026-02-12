@@ -131,3 +131,5 @@ Today I studied Java basics and reviewed object-oriented concepts.
 今日はXcodeの基本的な文法を勉強しました
 ## 2026-2-11
 今日はXcodeの基本的な文法を勉強しました
+## 2026-2-12
+本日はSwiftの文法の基礎について学習しました。
