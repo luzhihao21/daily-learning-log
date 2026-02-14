@@ -135,3 +135,5 @@ Today I studied Java basics and reviewed object-oriented concepts.
 本日はSwiftの文法の基礎について学習しました。
 ## 2026-2-13
 本日はSwiftの文法の基礎について学習しました。
+## 2026-2-14
+本日はSwiftの文法の基礎について学習しました。
