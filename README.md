@@ -185,3 +185,5 @@ Today I studied Java basics and reviewed object-oriented concepts.
 本日はJavaの基本構文を中心に学習を進めました。
 ## 2026-3-23
 本日はJavaの基本構文を中心に学習を進めました。
+## 2026-3-26
+本日はJavaの基本構文を中心に学習を進めました。
